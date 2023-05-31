@@ -41,7 +41,7 @@ Feel free to connect with me on LinkedIn to stay updated with my latest projects
 
 [My LinkedIn Profile - Firat Peynirci](https://www.linkedin.com/in/firat-peynirci/)
 
-If you have any inquiries, project ideas, or collaboration opportunities, please don't hesitate to reach out to me at [email@example.com](mailto:firatpeynirci@gmail.com).
+If you have any inquiries, project ideas, or collaboration opportunities, please don't hesitate to reach out to me at [firatpeynirci@gmail.com](mailto:firatpeynirci@gmail.com).
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 
