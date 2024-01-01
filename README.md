@@ -16,7 +16,17 @@ Hello, and welcome to my GitHub profile! This repository serves as the landing p
 
 Here are some of my featured projects:
 
-1. **Project 1** - Text Analytics in 10-K reports (NLP)
+1. Filtering Airbnb Reviews: London Dataset
+2. House Price Prediction
+3. Missing Data Imputation for Financial Time Series
+4. Topic Modeling with Gensim and spaCy
+5. Construction Calculator And Waybill Tracker DB
+6. E-Commerce Saas Web Interface
+7. Tableau Project: Relationship of Co2 and GDP
+8. Sentiment Analysis of Resignation Letter
+9. Flight Price Prediction
+10. Twitter Sentiment Analysis with Machine Learning
+
 
 ## Skills
 
