@@ -58,7 +58,7 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 
 ---
 
-*Note: This README.md file is an example and can be customized to suit your own GitHub profile. Feel free to modify and enhance it based on your preferences and requirements.*
+
 
 <!--
 **frtpynrc/frtpynrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
