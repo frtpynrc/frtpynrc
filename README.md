@@ -32,8 +32,8 @@ Here are some of my featured projects:
 
 Here are some of the key skills and technologies I possess:
 
-- Programming Languages: Python, R Programming (Beginner)
-- Web Development: HTML, CSS, PHP, Java Script (Entry Level for all web dev. lang.)
+- Programming Languages: Python, R Programming
+- Web Development: HTML, CSS, PHP, Java Script (Intermediate for all web dev. lang.)
 - BI Tools: Power BI, Tableau
 - Database: SQL
 - Data Analysis: Pandas, NumPy, Matplotlib
